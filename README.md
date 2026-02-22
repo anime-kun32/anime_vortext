@@ -13,6 +13,10 @@ A Stremio addon that provides trending and popular anime catalogs with streaming
 
 ## Installation
 
+Make sure you have node js and git installed on your computer ( machine ) before running
+
+Then open a terminal and follow the instructions below 
+
 1. Clone the repository:
 git clone https://github.com/anime-kun32/anime_vortext.git
 
